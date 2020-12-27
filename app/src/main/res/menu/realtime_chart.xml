@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/rsrp_chart"
+        android:title="RSRP Chart"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/rsrq_chart"
+        android:title="RSRQ Chart"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sinr_chart"
+        android:title="SINR Chart"
+        app:showAsAction="never" />
+
+</menu>
